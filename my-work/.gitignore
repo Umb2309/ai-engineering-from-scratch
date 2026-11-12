@@ -1,0 +1,8 @@
+# Model checkpoints: large, and can be regenerated
+*.pt
+*.pth
+*.safetensors
+
+# Compiled build output: can be rebuilt from source
+*.exe
+*.pdb
